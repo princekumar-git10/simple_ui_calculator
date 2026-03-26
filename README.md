@@ -95,11 +95,5 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 📢 Connect with Me
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-
----
-
-## 💬 From My YouTube Video
-
-If you came from my YouTube video, comment **"Calculator"** and I’ll share how I built this project step-by-step 🚀
+- GitHub: https://github.com/princekumar-git10
+- LinkedIn: https://www.linkedin.com/in/prince-kumar-981a19364
