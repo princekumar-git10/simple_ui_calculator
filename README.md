@@ -27,7 +27,8 @@ A simple and responsive **Calculator Web Application** built using **HTML, CSS, 
 
 ## 📸 Preview
 
-> Add your project screenshot here and name it `screenshot.png`
+<img width="1024" height="576" alt="screenshot" src="https://github.com/user-attachments/assets/b44493da-180b-4ac4-acec-75e691e4366f" />
+
 
 ```
 ![Calculator Preview](./screenshot.png)
